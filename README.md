@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🚀 I'm a passionate developer focused on building meaningful software solutions. I love solving real-world problems through clean, scalable code.
 
-🌱 Currently exploring backend development, cloud technologies, and sharpening my computer science fundamentals.
+🌱 Currently exploring backend development and sharpening my computer science fundamentals.
 
 💡 Always curious, always learning — whether it’s a new framework, a design pattern, or a better way to collaborate.
 
