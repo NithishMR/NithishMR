@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 👨‍💻 I enjoy working on projects
 
+🚀 Check out my [portfolio wbesite](https://google-inspired-portfolio.pages.dev). I made it as an inspiration from google web search.
+
 📫 Feel free to connect with me. I’m always open to collaboration and new ideas!
 
 <!--⚡ Fun fact: I'm driven by the vision of creating impactful tech — and maybe even helping build the next frontier of gaming and productivity one day.-->
